@@ -1,0 +1,14 @@
+.add-btn{
+    background-color: green;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+.btn-div{
+    text-align: end;
+    padding-right: 100px;
+    padding-top: 100px;
+}
